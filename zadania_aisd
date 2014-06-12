@@ -1,0 +1,44 @@
+8 kwietnia
+1. ????
+2. Algorytm plecakowy dla dziwnych danych wejściowych
+3. Kolejność mnożenia macierzy przy nieco zmienionym koszcie
+4. Drabina w wersji o 3 rzędach
+5. Schemat dowodu dolnej granicy element uniqueness
+6. Kolejność sortowania (od początku/od końca) w leksykograficznym
+7. Sens kubełków w sortowaniu leksykograficzym (i dlaczego da się szybko)
+
+5 maja
+1. Przerobić zadane B-drzewo na czerw-czarne
+2. Magiczne trójki/siódemki (czy mają sens)
+3. Pseudokod quickselecta
+4. Ile porównań robi insert w AVL
+5. Idea lazy selecta
+6. Uporządkować drzewa zbalans. wg max głębokości
+7. Ręczna symulacja przeglądania drzewca
+
+13 maja
+1. Koszt zamortyzowany operacji Dod1 Dod2 Dod3
+2. Zdefiniować odległość edycyjną
+3. Pseudokod deletemin (eager)
+4. Dlaczego drzewa w kopcu fib są wykładniczo wielkie
+5. Ile bitów potrzeba na j.k.
+6. Kwadrat macierzy Toeplitza
+7. Symulacja inserta w splayu
+
+27 maja
+1. Prawdopodobieństwo w sieci Banesa-Waksmana
+2. Stokrotka z ograniczeniem na ruchy w pionie
+3. Porządkowanie 2 tablic minimalizując swapy i porównania
+
+3 czerwca
+1. Co to są rząd, grupa rzędu
+2. log*(4^k)
+3. Rozbalansowany union-find
+4. Idea FFT
+5. Ręczna symulacja open-addressing
+6. Moc zbioru {w^2 | w jest pierwiastkiem n-go stopnia z 1}
+7. Pierwiastki z 1 w ciele mod 7
+8. Oszacowanie górne w. oczekiwanej długości najdłuższej listy w słowniku
+9. Definicja rodziny uniwersalnej
+10. Co to jest słownik statyczny
+11. Obliczenia kosztu słownika o n kluczach z m = n^2
