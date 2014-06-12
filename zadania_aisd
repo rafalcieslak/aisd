@@ -42,3 +42,19 @@
 9. Definicja rodziny uniwersalnej
 10. Co to jest słownik statyczny
 11. Obliczenia kosztu słownika o n kluczach z m = n^2
+
+10 czerwca
+1. Tablica R_a (ShiftAnd) dla zadanego wzorca
+2. Czy KMR może szukać najdłuższe słowo występujące 3 razy
+3. Policzyć funkcję pi dla zadanego wzorca
+4. D-d że KMP działa liniowo
+5. Sortowanie n liczb [0,n^10) w O(n)
+6. Czy 2logn j.k. starcza na delmin w kopcu fib
+7. Podaj wzór Stirlinga
+8. Podaj wzór Markova
+9. Wartość oczwekiwana sumy i*X_i
+10. Zmiana rzędu v przy find(v)
+11. Wartość "size (poddrzewa)" dodana do AVL (ile wierzchołków trzeba aktualizować)
+12. Zdefiniuj/rozwiąż problem plecakowy
+13. Symulacja Bayera-Moore'a
+14. Rozwiązywanie rekurencji przez potęgowanie macierzy
