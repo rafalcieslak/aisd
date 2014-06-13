@@ -35,9 +35,9 @@
 2. log*(4^k)
 3. Rozbalansowany union-find
 4. Idea FFT
-5. Ręczna symulacja open-addressing
+5. Pierwiastki z 1 w ciele mod 7
 6. Moc zbioru {w^2 | w jest pierwiastkiem n-go stopnia z 1}
-7. Pierwiastki z 1 w ciele mod 7
+7. Ręczna symulacja open-addressing
 8. Oszacowanie górne w. oczekiwanej długości najdłuższej listy w słowniku
 9. Definicja rodziny uniwersalnej
 10. Co to jest słownik statyczny
