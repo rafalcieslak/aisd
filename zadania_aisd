@@ -1,3 +1,5 @@
+Czątkowe:
+
 8 kwietnia
 1. Idea algorytmu, który sprawdza czy krawędź należy do jakiegoś MST.
 2. Algorytm plecakowy dla dziwnych danych wejściowych
@@ -58,3 +60,18 @@
 12. Zdefiniuj/rozwiąż problem plecakowy
 13. Symulacja Bayera-Moore'a
 14. Rozwiązywanie rekurencji przez potęgowanie macierzy
+
+
+Końcowy:
+
+Cz I:
+1 - 20: ???
+
+Cz 2:
+1 - 4: ???
+
+Cz 3:
+1. Szukanie maksymalnego sparowania/dominowania punktów białych/czarnych na płaszczyźnie.
+2. Sprawdzanie,czy ciąg Z jest przeplotem X i Y.
+3. Podawanie w O(1) optymalnych ruchów w grze, która polega na zdjmowaniu wybranej skrajnej karty z ciągu i sumowaniu wartości kart jako wyniku.
+4. LCS dla 3 ciągów.
